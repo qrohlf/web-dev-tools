@@ -1,0 +1,27 @@
+
+/***** Font Definition for Enriqueta *****/
+
+/* Regular */
+@font-face {
+    font-family: 'Enriqueta';
+    src: url('fonts/Enriqueta-Regular-webfont.eot');
+    src: url('fonts/Enriqueta-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Enriqueta-Regular-webfont.woff') format('woff'),
+         url('fonts/Enriqueta-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Enriqueta-Regular-webfont.svg#EnriquetaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Enriqueta';
+    src: url('fonts/Enriqueta-Bold-webfont.eot');
+    src: url('fonts/Enriqueta-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Enriqueta-Bold-webfont.woff') format('woff'),
+         url('fonts/Enriqueta-Bold-webfont.ttf') format('truetype'),
+         url('fonts/Enriqueta-Bold-webfont.svg#EnriquetaBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

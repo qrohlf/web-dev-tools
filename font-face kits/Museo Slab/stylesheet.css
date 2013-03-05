@@ -1,0 +1,23 @@
+/***** Font Definition for Museo Slab *****/
+@font-face {
+    font-family: 'Museo Slab';
+    src: url('fonts/MuseoSlab_Regular.eot');
+    src: url('fonts/MuseoSlab_Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MuseoSlab_Regular.woff') format('woff'),
+         url('fonts/MuseoSlab_Regular.ttf') format('truetype'),
+         url('fonts/MuseoSlab_Regular.svg#wf') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+ 
+  
+@font-face {
+    font-family: 'Museo Slab';
+    src: url('fonts/MuseoSlab_Italic.eot');
+    src: url('fonts/MuseoSlab_Italic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MuseoSlab_Italic.woff') format('woff'),
+         url('fonts/MuseoSlab_Italic.ttf') format('truetype'),
+         url('fonts/MuseoSlab_Italic.svg#wf') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
